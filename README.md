@@ -1,2 +1,2 @@
 # java-scrkipt
-learn javascrkipt
+learn javascrkiptv
